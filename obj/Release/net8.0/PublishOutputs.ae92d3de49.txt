@@ -1,6 +1,12 @@
 D:\Preparation\WebApplication1\publish\WebApplication1.exe
+D:\Preparation\WebApplication1\publish\publish\web.config
 D:\Preparation\WebApplication1\publish\appsettings.Development.json
 D:\Preparation\WebApplication1\publish\appsettings.json
+D:\Preparation\WebApplication1\publish\publish\appsettings.Development.json
+D:\Preparation\WebApplication1\publish\publish\appsettings.json
+D:\Preparation\WebApplication1\publish\publish\WebApplication1.deps.json
+D:\Preparation\WebApplication1\publish\publish\WebApplication1.runtimeconfig.json
+D:\Preparation\WebApplication1\publish\publish\WebApplication1.staticwebassets.endpoints.json
 D:\Preparation\WebApplication1\publish\WebApplication1.dll
 D:\Preparation\WebApplication1\publish\WebApplication1.deps.json
 D:\Preparation\WebApplication1\publish\WebApplication1.runtimeconfig.json

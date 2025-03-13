@@ -34,3 +34,10 @@ D:\Preparation\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
 D:\Preparation\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 D:\Preparation\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 D:\Preparation\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+D:\Preparation\WebApplication1\bin\Debug\net8.0\publish\web.config
+D:\Preparation\WebApplication1\bin\Debug\net8.0\publish\appsettings.Development.json
+D:\Preparation\WebApplication1\bin\Debug\net8.0\publish\appsettings.json
+D:\Preparation\WebApplication1\bin\Debug\net8.0\publish\WebApplication1.deps.json
+D:\Preparation\WebApplication1\bin\Debug\net8.0\publish\WebApplication1.runtimeconfig.json
+D:\Preparation\WebApplication1\bin\Debug\net8.0\publish\WebApplication1.staticwebassets.endpoints.json
+D:\Preparation\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
